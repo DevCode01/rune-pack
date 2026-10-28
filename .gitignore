@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+target/
+dist/
+*.o
+*.exe
+zig-cache/
+zig-out/
+.zig-cache/
